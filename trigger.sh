@@ -1,5 +1,5 @@
 
 cat readme
 cat /etc/os-release
-apt update
+#apt update
 #ls /root/
