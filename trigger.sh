@@ -1,3 +1,6 @@
+
 cat readme
 cat /etc/os-release
-ls /root/
+apt update
+apt install megatools
+#ls /root/
