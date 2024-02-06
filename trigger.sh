@@ -1,1 +1,1 @@
- apt install megatools
+echo readme
