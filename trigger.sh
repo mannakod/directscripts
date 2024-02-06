@@ -1,1 +1,1 @@
-echo readme
+cat readme
