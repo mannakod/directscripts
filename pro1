@@ -3,7 +3,7 @@ pipeline {
     docker { image 'ubuntu' }
   }
   stages {
-    stage('Test') {
+    stage('TestDocker') {
       steps {
         sh 'echo "hello"'
 	sh 'cat readme'
