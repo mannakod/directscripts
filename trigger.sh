@@ -1,1 +1,1 @@
-sudo apt install megatools
+ apt install megatools
